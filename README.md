@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌍 Roamify – Discover Your Next Adventure
 
-## Getting Started
+Roamify is a sleek and responsive travel discovery web application built with **Next.js**. It empowers users to explore breathtaking destinations, uncover travel guides, and get inspired for their next adventure — all in one place.
 
-First, run the development server:
+## ✨ Features
+
+- 🗺️ Dynamic and visually engaging landing page
+- 📱 Fully responsive design across devices
+- ⚡ Fast performance powered by Next.js
+- 🎯 Clean and minimalistic UI for a better user experience
+- 🧭 Explore curated destinations and travel tips
+
+## 🔧 Tech Stack
+
+- **Framework**: Next.js
+- **Styling**: CSS Modules / Tailwind CSS (if used)
+- **Deployment**: Vercel / Netlify
+- **Version Control**: Git & GitHub
+
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/221ef317-dacd-45eb-b96d-ff7140b76f30)
+
+
+## 🚀 Getting Started
+
+Clone the repository and install dependencies:
 
 ```bash
+git clone https://github.com/Chirag-1729/Roamify.git
+cd travel-app
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
